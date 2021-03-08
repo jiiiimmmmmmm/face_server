@@ -1,7 +1,11 @@
 data
 .idea
 .vscode
-model
+model/web_model
+model/web_model1
+model/*.h5
+model/*.pb
+model/facenet.tflite
 annoyIndex
 lmdb
 __pycache__
