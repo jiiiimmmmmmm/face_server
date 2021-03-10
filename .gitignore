@@ -6,6 +6,7 @@ model/web_model1
 model/*.h5
 model/*.pb
 model/facenet.tflite
+model/super*/RFB
 annoyIndex
 lmdb
 __pycache__
